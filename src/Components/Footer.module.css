@@ -1,0 +1,25 @@
+.outercontainer{
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.main_container{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  width: 100%;
+  background-color: black;
+  height: 50px;
+}
+
+
+
+.button{
+  background-color: black;
+  color: skyblue;
+  border: none;
+}

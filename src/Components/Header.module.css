@@ -1,0 +1,27 @@
+.main_container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: black;
+  width: 100%;
+  position: sticky;
+  top: 0;
+}
+
+.button{
+  height: 50px;
+  width: fit-content;
+  color: white;
+  background-color: black;
+  border: none;
+}
+
+.link{
+  gap: 8px;
+}
+
+.mybookingsbutton{
+  border: 1px solid white;
+  background-color: skyblue;
+  color: black;
+}
